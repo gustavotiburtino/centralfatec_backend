@@ -1,0 +1,2 @@
+# centralfatec_backend
+O objetivo do projeto é o desenvolvimento de um sistema para reserva de projetores e mapa para sala voltado para professores e notícias da faculdade e achados e perdidos voltado também para os alunos. Atualmente o campus não possui um sistema que trate dessas questões, hoje estão sendo feitas manualmente e não estão funcionando de maneira eficiente, ocasionando inconsistências, por esse motivo demanda um sistema informatizado. 
